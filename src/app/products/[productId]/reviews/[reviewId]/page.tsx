@@ -1,3 +1,4 @@
+"use client";
 import { notFound } from "next/navigation";
 
 function gerRandomInt(count: number) {
